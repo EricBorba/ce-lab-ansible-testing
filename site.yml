@@ -1,7 +1,7 @@
 ---
 - name: Base server configuration
   hosts: local
-  #become: true
+  # become: true
   gather_facts: true
 
   tasks:
